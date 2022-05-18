@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FlowerApp</string>
+    <string name="flower_order_details">Flower Order Details</string>
+    <string name="flower_id">Order id: %1$d</string>
+    <string name="flower_status">Status: %1$s</string>
+    <string name="flower_price">Price: %1$d</string>
+    <string name="flower_deliver">Deliver to: %1$s</string>
 </resources>
